@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/NguyenMauHung/NodeJSFunix#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "nodemon": "^1.18.3"
   }
 }
